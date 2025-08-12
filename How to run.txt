@@ -1,0 +1,4 @@
+
+javac -d . db\DBConnection.java entity\Player.java entity\Game.java dao\PlayerDAO.java dao\GameDAO.java logic\GameManager.java service\PrizePool.java service\MusicPlayer.java gui\AdminLoginUI.java gui\MainMenu.java gui\PlayerFormUI.java gui\PlayerTableUI.java gui\GameSimulationUI.java Main.java
+
+java -cp ".;lib\mysql-connector-j-8.0.33.jar" Main
