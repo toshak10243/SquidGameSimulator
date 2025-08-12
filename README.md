@@ -1,5 +1,8 @@
 Squid Game Simulator – Java Project
 
+![ssq](https://github.com/user-attachments/assets/0de8f6bd-acdc-4ba9-b2d1-c53246ad3605)
+
+
 Introduction
 
 This is a Java-based Squid Game Simulator that brings the thrill of the popular Squid Game series into an interactive desktop application.
