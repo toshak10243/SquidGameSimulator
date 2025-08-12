@@ -87,3 +87,7 @@ MCA in Artificial Intelligence & Machine Learning – JECRC University
 GitHub: toshak10243
 
 THANKYOU !
+
+
+![ss](https://github.com/user-attachments/assets/5aeb0143-d0cb-4571-87e5-dc65d0590728)
+
